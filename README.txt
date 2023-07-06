@@ -11,20 +11,18 @@ The Sales Data Business Analytics Project is designed to analyze sales data to i
 
 The key features of this project include:
 
-Data preprocessing and cleansing: Clean and transform raw sales data into a structured format suitable for analysis.
-
 Exploratory data analysis (EDA): Perform comprehensive exploratory analysis to uncover insights and relationships within the data.
 
 Key performance indicators (KPIs): Calculate and visualize various KPIs, such as sales growth, customer retention, and product performance.
 
 Data visualization: Create visualizations, including charts, graphs, and dashboards, to present the analyzed data in a clear and meaningful way.
 
-VBA Code: Pull data directly from Mysql to excell using the vba codes available in the excell spreadsheet.
+VBA Code: Pull data directly from Mysql to excel using the vba codes available in the excel spreadsheet.
 
 To get started with the Sales Data Business Analytics Project, follow the instructions below.
 
 How to use:
-You are supplied a Mysql database file and an excell spreadsheet of all the data in the database. On the excell spreadsheet there are vba codes that can help populate the data in the spreadsheet.
+You are supplied a Mysql database file and an excel spreadsheet of all the data in the database. On the excel spreadsheet there are vba codes that can help populate the data in the spreadsheet.
 
 Contributing
 Contributions to the Sales Data Business Analytics Project are welcome! If you find any issues or have ideas for improvements, please submit a pull request or open an issue on the GitHub repository.
