@@ -3,7 +3,7 @@ README
 Sales Data Business Analytics Project
 This repository contains the source code and documentation for a Sales Data Business Analytics Project. The project aims to analyze sales data and provide insights to support decision-making and improve business performance.
 
-This is a project to display skills in MYSQL Database & SQL queries, Using Excell to clean and Manipulate data to make new metrics as well as show use in Graphs & visualizations, VBA code used to pull data from Mysql and to create new metrics, & Tableau for advanced visualizations of the data.
+This is a project to display skills in MYSQL Database & SQL queries, Using Excel to clean and Manipulate data to make new metrics as well as show use in Graphs & visualizations, VBA code used to pull data from Mysql and to create new metrics, & Tableau for advanced visualizations of the data.
 
 
 Project Overview
