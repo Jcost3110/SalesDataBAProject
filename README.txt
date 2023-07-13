@@ -27,9 +27,6 @@ You are supplied a Mysql database file and an excel spreadsheet of all the data 
 Contributing
 Contributions to the Sales Data Business Analytics Project are welcome! If you find any issues or have ideas for improvements, please submit a pull request or open an issue on the GitHub repository.
 
-License
-This project is licensed under the MIT License.
-
 Contact
 If you have any questions or suggestions regarding the Sales Data Business Analytics Project, please feel free to contact the project owner on github:
 
